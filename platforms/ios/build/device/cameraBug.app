@@ -1,0 +1,1 @@
+/Users/BMwanza/Library/Developer/Xcode/DerivedData/cameraBug-avctivqbzlqawzdfcmdeqbeqggpa/Build/Intermediates.noindex/ArchiveIntermediates/cameraBug/InstallationBuildProductsLocation/Applications/cameraBug.app

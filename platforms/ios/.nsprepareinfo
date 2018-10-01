@@ -1,0 +1,33 @@
+{
+	"time": "Mon Oct 01 2018 06:53:18 GMT-0500 (CDT)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "454440ef5461d938048a1405659737e409611ab7ecfe60d7cf55db38e5b7f145",
+	"changesRequireBuildTime": "Mon Oct 01 2018 06:51:20 GMT-0500 (CDT)",
+	"appFilesHashes": {
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/_app-common.scss": "d5a4351ba3527d864a6872a9bdd17d10c200cb70",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/_app-variables.scss": "3988c68e0f4d4ed3dff64692ebe644fdba46aebe",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/app-root.xml": "fb94147ae04c4ccfed68685cff0e747f162ae623",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/app.android.css": "2a532e2f7228de0d36a6b643b8d852664c9f3d94",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/app.android.scss": "f3b219749bd72e7cc1689e33a2d97e653f800438",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/app.ios.css": "b4490336c777b3962338f60d399b5f0718388e30",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/app.ios.scss": "aa96903b99423f9f379decf6171b0f296cf406a8",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/browse/browse-page.js": "6e354b13ff69b899c17b70394c0ce90d04813210",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/browse/browse-page.xml": "58dfdd10ea0f92fe2f142a190d2ec26509cfc353",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/browse/browse-view-model.js": "6ad09efc924214d29aa10e952a6c837b5459844b",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/home/home-item-detail/home-item-detail-page.js": "7f913a01a492b8a77d28ef3dead001cf08694537",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/home/home-item-detail/home-item-detail-page.xml": "704ab2ca802f5edfd34b664461c035d0fb2c28c6",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/home/home-items-page.js": "1b59d66245e537950b772c280151f88cc1c5a185",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/app.js": "f40b8638a17bb3a3b204e152c010f481f4dd04e1",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/home/home-items-page.xml": "9589aebaf3614a6b1d6908880e8658f416d0ae01",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/home/home-items-view-model.js": "a35f6e6b27c8a2e9dc968d31862a50836a69d7d1",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/search/search-page.js": "7a24239d81fc4c60ebc646e26c070e28f06a524e",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/search/search-page.xml": "0de8c7890e9208767a9b95c5c833543406a01b66",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/search/search-view-model.js": "9eade7b6c4afb21489f6b44d2b9e9f2785ed4a00",
+		"/Users/BMwanza/NativeScript Apps/cameraBug/app/fonts/FontAwesome.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+	}
+}
